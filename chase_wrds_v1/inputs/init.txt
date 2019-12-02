@@ -1,0 +1,5 @@
+####################################################################
+#                   WRDS Example Script                            #
+#             IF: First Time Running change Default to True        #
+#             Description: Connects to WRDS and pulls stock info   #
+####################################################################
