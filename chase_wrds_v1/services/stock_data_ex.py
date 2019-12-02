@@ -104,7 +104,7 @@ def main():
         db = wrds.connect()
 
     # run query
-    df = runQuery(db, 'KO', settings.FPI_LIST)
+    df = runQuery(db, 'POS', settings.FPI_LIST)
 
     # close db connection
     wrds.econnection(db)
